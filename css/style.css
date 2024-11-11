@@ -34,3 +34,41 @@ h1, h2, h3 {
     position: relative;
     padding: 150px;
 }
+
+#cover-text {
+    
+    text-align: flex-start;
+}
+
+main {
+    margin-top: 80px;
+}
+
+/* Standard breakpoints for responsive design */
+@media (max-width: 1200px) {
+    #hero {
+        padding: 100px;
+    }
+}
+
+@media (max-width: 992px) {
+    #hero {
+        padding: 80px;
+    }
+}
+
+@media (max-width: 768px) {
+    #hero {
+        padding: 60px;
+    }
+}
+
+@media (max-width: 576px) {
+    #hero {
+        padding: 40px;
+    }
+    #cover-text {
+        padding: 40px
+        
+    }
+}
