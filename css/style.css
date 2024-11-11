@@ -1,5 +1,6 @@
 .navbar {
-    padding: 30px 30px; /* Adjust the padding values as needed */
+    padding: 30px 30px;
+    font-family: 'Tilt Neon', sans-serif;
 }
 
 .navbar-nav .nav-link,
@@ -45,10 +46,11 @@ main {
 }
 
 footer {
-    background-color: #343a40; /* Dark background */
-    color: white; /* White text */
-    text-align: center; /* Centered text */
-    padding: 1rem 0; /* Padding */
+    background-color: #343a40; 
+    color: white; 
+    text-align: center; 
+    font-family: 'Tilt Neon', sans-serif;
+    padding: 1rem 0; 
 }
 
 /* Standard breakpoints for responsive design */
