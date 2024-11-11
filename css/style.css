@@ -2,7 +2,16 @@
 .navbar-brand {
     color: white;
 }
+
+.navbar-toggler {
+    background-color: white;
+    border-color: white;
+}
+
+.navbar-toggler-icon {
+    background-color: white;
+}
+
 .navbar-nav {
-    text-align: right;
-    width: 100%;
+    color: white;
 }
