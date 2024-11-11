@@ -1,3 +1,18 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+    margin-top: 80px;
+}
+
 .navbar {
     padding: 30px 30px;
     font-family: 'Tilt Neon', sans-serif;
@@ -6,6 +21,7 @@
 .navbar-nav .nav-link,
 .navbar-brand {
     color: white;
+    font-family: 'Tilt Neon', sans-serif;
 }
 
 .navbar-toggler {
@@ -37,17 +53,13 @@ h1, h2, h3 {
 }
 
 #cover-text {
-    
     text-align: flex-start;
-}
-
-main {
-    margin-top: 100px;
 }
 
 .card {
     max-width: 300px; /* Adjust the max-width as needed */
     margin: 0 auto; /* Center the card within its column */
+    font-family: 'Tilt Neon', sans-serif;
 }
 
 footer {
@@ -56,7 +68,7 @@ footer {
     text-align: center; 
     font-family: 'Tilt Neon', sans-serif;
     padding: 1rem 0; 
-    margin-top: 20px;
+    margin-top: 20px; /* Add margin above the footer */
 }
 
 /* Standard breakpoints for responsive design */
@@ -82,8 +94,14 @@ footer {
     #hero {
         padding: 40px;
     }
-    #cover-text {
-        padding: 40px
-        
+}
+
+@media (max-width: 400px) {
+    #hero {
+        padding: 20px;
     }
+}
+
+#cover-text {
+    text-align: center;
 }
