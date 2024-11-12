@@ -93,6 +93,14 @@ p {
     text-align: center;
 }
 
+#links {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
 .accordion-header {
     
     color: white;
