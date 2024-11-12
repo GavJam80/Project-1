@@ -67,7 +67,7 @@ p {
 #hero {
     height: 400px;
     width: 100%;
-    background: url("assets/media/relax.webp") no-repeat center center/cover;
+    background: url("../assets/media/relax.webp") no-repeat center center/cover;
     position: relative;
     padding: 150px;
 }
