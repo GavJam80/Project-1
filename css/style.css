@@ -28,7 +28,7 @@ main {
 
 .navbar-toggler {
     background-color: white;
-    border-color: white;
+    border-color: rgb(116, 141, 170);
 }
 
 .navbar-toggler-icon {
@@ -73,7 +73,7 @@ p {
 }
 
 #cover-text {
-    text-align: flex-start;
+    text-align:start;
     
 }
 
