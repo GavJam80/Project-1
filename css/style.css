@@ -16,6 +16,7 @@ main {
 
 .navbar {
     padding: 30px 30px;
+    
     font-family: 'Tilt Neon', sans-serif;
 }
 
@@ -60,7 +61,7 @@ p {
     justify-content: center;
     align-items: center;
     
-     /* This centers the text within the element */
+    text-align: center; /* This centers the text within the element */
 }
 
 #hero {
@@ -86,11 +87,16 @@ p {
 }
 
 #whats-happening {
+    
     background-color: #343a40;
     color: white;
     padding: 20px;
     margin-top: 20px;
     text-align: center;
+}
+
+#whats-happening:target {
+    scroll-margin-top: 90px; /* Adjust this value to match your navbar height */
 }
 
 #assist-now {
@@ -101,6 +107,10 @@ p {
     text-align: center;
 }
 
+#assist-now:target {
+    scroll-margin-top: 90px; /* Adjust this value to match your navbar height */
+}
+
 #links {
     background-color: #343a40;
     color: white;
@@ -108,6 +118,9 @@ p {
     margin-top: 20px;
     text-align: center;
 }
+
+
+
 
 #links-header {
     color: #2c2f31;
