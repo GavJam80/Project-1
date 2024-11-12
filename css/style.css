@@ -16,7 +16,6 @@ main {
 
 .navbar {
     padding: 30px 30px;
-    
     font-family: 'Tilt Neon', sans-serif;
 }
 
@@ -53,7 +52,7 @@ strong {
 
 p {
     font-family: 'Tilt Neon', sans-serif;
-    color: #343a40;
+    color: #909ba7;
 }
 
 .center {
