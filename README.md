@@ -1,4 +1,4 @@
-Anxiety Assistant(https://gavjam80.github.io/Project-1/assets/media/Dove.png)
+Anxiety Assistant (https://gavjam80.github.io/Project-1/assets/media/Dove.png)
 
 Welcome Gavin Jameson,
 
