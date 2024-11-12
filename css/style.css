@@ -1,0 +1,180 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+    margin-top: 80px;
+}
+
+.navbar {
+    padding: 30px 30px;
+    
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+.navbar-nav .nav-link,
+.navbar-brand {
+    color: white;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+.navbar-toggler {
+    background-color: white;
+    border-color: rgb(116, 141, 170);
+}
+
+.navbar-toggler-icon {
+    background-color: white;
+}
+
+.navbar-nav {
+    color: white;
+}
+
+h1, h2, h3 {
+    font-family: 'Tilt Neon', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #b6c7db;
+}
+
+strong {
+    color: #343a40;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+p {
+    font-family: 'Tilt Neon', sans-serif;
+    color: #343a40;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    text-align: center; /* This centers the text within the element */
+}
+
+#hero {
+    height: 400px;
+    width: 100%;
+    background: url("../assets/media/relax.webp") no-repeat center center/cover;
+    position: relative;
+    padding: 150px;
+}
+
+#cover-text {
+    text-align:start;
+    
+}
+
+#main-heading {
+    background-color: #343a40;
+}
+.card {
+    max-width: 300px; /* Adjust the max-width as needed */
+    margin: 0 auto; /* Center the card within its column */
+    
+}
+
+#whats-happening {
+    
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#whats-happening:target {
+    scroll-margin-top: 90px; /* Adjust this value to match your navbar height */
+}
+
+#assist-now {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#assist-now:target {
+    scroll-margin-top: 90px; /* Adjust this value to match your navbar height */
+}
+
+#links {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+
+
+#links-header {
+    color: #2c2f31;
+    text-align: center;
+}
+
+.accordion-header {
+    
+    color: white;
+    font-family: 'Tilt Neon', sans-serif;
+    padding: 10px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #343a40; 
+    color: white; 
+    text-align: center; 
+    font-family: 'Tilt Neon', sans-serif;
+    padding: 1rem 0; 
+    margin-top: 20px; /* Add margin above the footer */
+}
+
+/* Standard breakpoints for responsive design */
+@media (max-width: 1200px) {
+    #hero {
+        padding: 100px;
+    }
+}
+
+@media (max-width: 992px) {
+    #hero {
+        padding: 80px;
+    }
+}
+
+@media (max-width: 768px) {
+    #hero {
+        padding: 60px;
+    }
+}
+
+@media (max-width: 576px) {
+    #hero {
+        padding: 40px;
+    }
+}
+
+@media (max-width: 400px) {
+    #hero {
+        padding: 20px;
+    }
+}
+
+#cover-text {
+    text-align: center;
+}
