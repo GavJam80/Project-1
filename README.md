@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Anxiety Assistant(https://gavjam80.github.io/Project-1/assets/media/Dove.png)
 
 Welcome Gavin Jameson,
 
