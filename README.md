@@ -32,9 +32,9 @@ A small landing page to assist people with anxiety containing advice and links t
 
 ## Validation
 
-![Image](https://github.com/GavJam80/Project-1/blob/main/AA%20pic1.png?raw=true)
+![Image](https://github.com/GavJam80/Project-1/blob/main/html%20pass.png)
 
-![Image](https://github.com/GavJam80/Project-1/blob/main/AA%20pic1.png?raw=true)
+![Image](https://github.com/GavJam80/Project-1/blob/main/css%20pass.png)
 
 ## Acknowledgements
 
