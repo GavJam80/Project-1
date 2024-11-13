@@ -30,6 +30,11 @@ A small landing page to assist people with anxiety containing advice and links t
 
 ![Image](https://github.com/GavJam80/Project-1/blob/main/Wireframe%20full.png?raw=true)
 
+## Validation
+
+![Image](https://github.com/GavJam80/Project-1/blob/main/AA%20pic1.png?raw=true)
+
+![Image](https://github.com/GavJam80/Project-1/blob/main/AA%20pic1.png?raw=true)
 
 ## Acknowledgements
 
