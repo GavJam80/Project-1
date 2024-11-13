@@ -1,3 +1,5 @@
+/* Main site styling */
+
 html, body {
     height: 100%;
     margin: 0;
@@ -13,6 +15,8 @@ main {
     flex: 1;
     margin-top: 80px;
 }
+
+/* Navbar styling */
 
 .navbar {
     padding: 30px 30px;
@@ -38,6 +42,8 @@ main {
     color: white;
 }
 
+/* Main typography styles */
+
 h1, h2, h3 {
     font-family: 'Tilt Neon', sans-serif;
     text-transform: uppercase;
@@ -62,10 +68,11 @@ a {
 .center {
     display: flex;
     justify-content: center;
-    align-items: center;
-    
-    text-align: center; /* This centers the text within the element */
+    align-items: center;    
+    text-align: center; 
 }
+
+/* Hero section */
 
 #hero {
     height: 400px;
@@ -83,9 +90,15 @@ a {
 #main-heading {
     background-color: #343a40;
 }
+
+#cover-text {
+    text-align: center;
+}
+/* Card section */
+
 .card {
-    max-width: 300px; /* Adjust the max-width as needed */
-    margin: 0 auto; /* Center the card within its column */
+    max-width: 300px;
+    margin: 0 auto; 
     
 }
 
@@ -102,6 +115,8 @@ a {
     scroll-margin-top: 90px; /* Adjust this value to match your navbar height */
 }
 
+/* Assist section styling */
+
 #assist-now {
     background-color: #343a40;
     color: white;
@@ -114,6 +129,8 @@ a {
     scroll-margin-top: 90px; /* Adjust this value to match your navbar height */
 }
 
+/* Link section styling */
+
 #links {
     background-color: #343a40;
     color: white;
@@ -122,13 +139,12 @@ a {
     text-align: center;
 }
 
-
-
-
 #links-header {
     color: #2c2f31;
     text-align: center;
 }
+
+/* Accordion section */
 
 .accordion-header {
     
@@ -137,6 +153,8 @@ a {
     padding: 10px;
     cursor: pointer;
 }
+
+/* Footer styling */
 
 footer {
     background-color: #343a40; 
@@ -182,6 +200,3 @@ footer > p {
     }
 }
 
-#cover-text {
-    text-align: center;
-}
