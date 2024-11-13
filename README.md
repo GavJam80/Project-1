@@ -13,6 +13,12 @@ A small landing page to assist people with anxiety containing advice and links t
 
 - [@GavJam80](https://github.com/GavJam80)
 
+## Requirements
+
+The website I need should be designed for optimal viewing on all devices, from smartphones to tablets and desktops. It must be concise, fitting all essential information onto a single page to avoid overwhelming users. To ensure a calm and accessible experience, the design should prioritize simplicity and clarity, avoiding intense colours or overly complex features. The overall goal is to create a user-friendly website that is easy to understand and navigate.
+
+The website I need should be designed for optimal viewing on all devices, from smartphones to tablets and desktops. It must be concise, fitting all essential information onto a single page to avoid overwhelming users. To ensure a calm and accessible experience, the design should prioritize simplicity and clarity, avoiding intense colours or overly complex features. The overall goal is to create a user-friendly website that is easy to understand and navigate
+
 
 ## Features
 
