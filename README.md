@@ -52,7 +52,9 @@ Stella - https://stellacenter.com/
 
 Affinity Designer - https://affinity.serif.com/en-gb/
 
-Co-pilot https://copilot.microsoft.com/
+Co-pilot - https://copilot.microsoft.com/
+
+Google Gemini - https://gemini.google.com/app?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all
 
 
 
