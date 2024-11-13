@@ -42,7 +42,7 @@ h1, h2, h3 {
     font-family: 'Tilt Neon', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #b6c7db;
+    color: #d1ddeb;
 }
 
 strong {
@@ -52,7 +52,11 @@ strong {
 
 p {
     font-family: 'Tilt Neon', sans-serif;
-    color: #909ba7;
+    color: #43484e;
+}
+
+a {
+    color: #2c2f31;
 }
 
 .center {
@@ -141,6 +145,10 @@ footer {
     font-family: 'Tilt Neon', sans-serif;
     padding: 1rem 0; 
     margin-top: 20px; /* Add margin above the footer */
+}
+
+footer > p {
+    color: white;
 }
 
 /* Standard breakpoints for responsive design */
